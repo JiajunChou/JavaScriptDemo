@@ -1,3 +1,3 @@
-Here is my JavaScript Demo area
+Here is my JavaScript or HTML Demo area
 
-I wiould add my practice JavaScript here.
+I would add my practice JavaScript and HTML here.
